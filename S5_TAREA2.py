@@ -141,7 +141,7 @@ while True:
                 print(f"| Dosificación: {receta.dosificacion}           ")
                 print(f"| ----------------------------------------------|")
                 print(f"|                CONTACTANOS                    |")
-                print(f"|                098192****                     |")
+                print(f"|                093983****                     |")
                 print(f"| ----------------------------------------------|")
                 print("""""")
 
